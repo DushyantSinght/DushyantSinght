@@ -1,5 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
-<div align="center">
+<!-- <div align="center">
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:1a1a2e&height=220&section=header&text=Dushyant%20Singh%20Tanwar&fontSize=38&fontColor=e0e0e0&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Java%20Engineer&descSize=15&descAlignY=62&animation=fadeIn)
 
@@ -66,5 +66,5 @@ I'm a Computer Science student and full-stack developer with hands-on internship
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:0f3460,60:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn)
 
-</div>
+</div> -->
 
